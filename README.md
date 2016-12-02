@@ -1,9 +1,8 @@
 # pysite
-python code to run a website
+Project that implements python code to run a website, which in this case is a movie database. The website has a rating, reviewing and trailer system in built.
 
-Open Commad Prompt and run using python. 
-ie, python filename.py
+Double click bat file
 
-the browser will automatically open the webpage rendred from local storage.
+The browser will automatically open the webpage rendred from local storage.
 
 
